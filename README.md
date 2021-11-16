@@ -2,9 +2,13 @@
  
 ## Starting Approach
 
-I started by creating a the standard toolbar plugin through UE4 and then extended it to add the Minesweeper game. I also used the beta of Jetbrains Rider for Unreal Engine for my IDE.
+I started by creating a the standard toolbar plugin through UE4 and then extended it to add the Minesweeper game. 
 
-This was developed using version 4.27.
+## Development
+
+I used the beta of Jetbrains Rider for Unreal Engine for my IDE with Unreal version 4.27.
+
+I'm not commiting the solution files as this can cause issues but can be easily generated from the Unreal Editor.
 
 ## Running 
 
