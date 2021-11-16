@@ -1,0 +1,92 @@
+﻿# Minesweeper Chinese (Simplified) translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Minesweeper\n"
+"POT-Creation-Date: 2021-11-15 00:19\n"
+"PO-Revision-Date: 2021-11-15 00:19\n"
+"Language-Team: \n"
+"Language: zh-Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Columns
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:16
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:16
+msgctxt "FMinesweeperModule,Columns"
+msgid "Columns"
+msgstr "列"
+
+#. Key:	GenerateBoard
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:18
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:18
+msgctxt "FMinesweeperModule,GenerateBoard"
+msgid "Generate Board"
+msgstr "生成板"
+
+#. Key:	LetsPlayMinesweeper
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:13
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:13
+msgctxt "FMinesweeperModule,LetsPlayMinesweeper"
+msgid "Let's Play Minesweeper!"
+msgstr "让我们玩扫雷！"
+
+#. Key:	Minesweeper
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperSettings.cpp:20
+#: Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperSettings.cpp:20
+msgctxt "FMinesweeperModule,Minesweeper"
+msgid "Minesweeper"
+msgstr "扫雷舰"
+
+#. Key:	MinesweeperPlugin
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Public/MinesweeperCommands.h:14
+#: Plugins/Minesweeper/Source/Minesweeper/Public/MinesweeperCommands.h:14
+msgctxt "FMinesweeperModule,MinesweeperPlugin"
+msgid "Minesweeper Plugin"
+msgstr "扫雷插件"
+
+#. Key:	NumberOfMines
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:19
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:19
+msgctxt "FMinesweeperModule,NumberOfMines"
+msgid "Number of Mines"
+msgstr "矿山数量"
+
+#. Key:	Rows
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:17
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:17
+msgctxt "FMinesweeperModule,Rows"
+msgid "Rows"
+msgstr "行"
+
+#. Key:	YouLost
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:15
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:15
+msgctxt "FMinesweeperModule,YouLost"
+msgid "You Lost :("
+msgstr "你输了 :("
+
+#. Key:	YouWon
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:14
+#: Plugins/Minesweeper/Source/Minesweeper/Private/SMinesweeperWidget.cpp:14
+msgctxt "FMinesweeperModule,YouWon"
+msgid "You won!! :)"
+msgstr "你赢了!! :)"
+
+#. Key:	OpenPluginWindow
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperCommands.cpp:9
+#: Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperCommands.cpp:9
+msgctxt "UICommands.FMinesweeperModule,OpenPluginWindow"
+msgid "Play Minesweeper"
+msgstr "玩扫雷"
+
+#. Key:	OpenPluginWindow_ToolTip
+#. SourceLocation:	Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperCommands.cpp:9
+#: Plugins/Minesweeper/Source/Minesweeper/Private/MinesweeperCommands.cpp:9
+msgctxt "UICommands.FMinesweeperModule,OpenPluginWindow_ToolTip"
+msgid "Launch Minesweeper game"
+msgstr "启动扫雷游戏"
+
