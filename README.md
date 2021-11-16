@@ -4,6 +4,8 @@
 
 I started by creating a the standard toolbar plugin through UE4 and then extended it to add the Minesweeper game. I also used the beta of Jetbrains Rider for Unreal Engine for my IDE.
 
+This was developed using version 4.27.
+
 ## Running 
 
 When running UE4 you should see the toolbar button "Play Minesweeper"
