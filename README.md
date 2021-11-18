@@ -32,7 +32,7 @@ If you change the editor's language to Simplified Chinese, the game will be tran
 
 ![Mindsweeper game localized](README/Localized.png)
 
-These translations were from Google and just for demostration and shouldn't be checked for accuracy. The localization resourses are also why the plugin also has a content directory.
+These translations were from Google, just for demostration, and shouldn't be checked for accuracy. The localization resourses are also why the plugin also has a content directory.
 
 ![Mindsweeper game localized](README/LocalizationFiles.png)
 
