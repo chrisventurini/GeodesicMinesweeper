@@ -96,7 +96,7 @@ void SMinesweeperWidget::Construct(const FArguments& InArgs)
                            .Value(Columns)
                            .MaxValue(20)
                            .MinValue(3)
-                           .OnValueChanged_Lambda([this](uint16 value) { Columns = value; })
+                           .OnValueChanged_Lambda([this](int value) { Columns = value; })
                    ]
                    +SHorizontalBox::Slot()
                        .Padding(defaultMargin)
@@ -112,7 +112,7 @@ void SMinesweeperWidget::Construct(const FArguments& InArgs)
                            .Value(Rows)
                            .MaxValue(20)
                            .MinValue(3)
-                           .OnValueChanged_Lambda([this](uint16 value) { Rows = value; })
+                           .OnValueChanged_Lambda([this](int value) { Rows = value; })
                    ]
                    +SHorizontalBox::Slot()
                       .Padding(defaultMargin)
@@ -127,7 +127,7 @@ void SMinesweeperWidget::Construct(const FArguments& InArgs)
                        SNew(SSpinBox<uint16>)
                            .Value(Mines)
                            .MinValue(1)
-                           .OnValueChanged_Lambda([this](uint16 value) { Mines = value; })
+                           .OnValueChanged_Lambda([this](int value) { Mines = value; })
                            .MaxValue_Lambda([this]
                               {
                                   return (Rows * Columns) - 1;
